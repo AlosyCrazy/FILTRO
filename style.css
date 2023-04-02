@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://i.redd.it/0zy4m4m765261.png);
+}
+h1{
+    color: white;
+}
+button{
+    border-width: 14px;
+    background-color: skyblue;
+}
+canvas{
+    width: 500px;
+    height: 500px;
+    border-width: 15px;
+    border-color: black;
+    background-color: white;
+}
